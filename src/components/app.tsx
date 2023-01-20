@@ -12,7 +12,7 @@ const App = () => {
         return () => {
             clearInterval(intervalId)
         }
-    });
+    }, [counter]);
 
     return (
         <div className="container">
