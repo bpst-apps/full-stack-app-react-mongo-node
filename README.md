@@ -1,1 +1,1 @@
-# react-hands-on-introduction
+# Full Stack App - React, Node & Mongo
